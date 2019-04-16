@@ -1,0 +1,5 @@
+1. 将工程share，选择git-rep作为库
+2. 远程添加工程，并将本地工程添加到远端
+git remote add springdemo https://github.com/PerkyJuzi/springdemo.git
+3. 提交
+git push -u springdemo master
